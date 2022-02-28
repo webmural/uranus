@@ -1,20 +1,20 @@
 ::selection {
-  background: indigo;
-  color: pink;
+  background: midnightblue;
+  color: aquamarine;
 }
 
 :root {
-  background: #ddd;
+  background: deepskyblue;
   color: #100;
 }
 
 :link {
-  background: #eee;
+  background: aquamarine;
   color: blueviolet;
 }
 
 :visited {
-  background: #eee;
+  background: aquamarine;
   color: darkviolet;
 }
 
@@ -25,6 +25,6 @@
 }
 
 mark {
-  background: salmon;
+  background: mediumspringgreen;
   color: #100;
 }
