@@ -28,3 +28,7 @@ mark {
   background: mediumspringgreen;
   color: #100;
 }
+
+body {
+  background-image: radial-gradient(deepskyblue, aquamarine, skyblue);
+}

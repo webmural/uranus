@@ -9,6 +9,20 @@ body {
   display: flex;
   flex-flow: column;
   margin: auto;
+  min-height: 100vh;
+}
+
+a {
+  padding: 1ex;
+}
+
+h1 {
+  margin: 0;
+}
+
+blockquote {
+  margin: 0;
+  padding: 0;
 }
 
 footer a {

@@ -27,3 +27,7 @@ mark {
   background: chartreuse;
   color: #100;
 }
+
+body {
+  background-image: radial-gradient(teal, deepskyblue, rebeccapurple);
+}
